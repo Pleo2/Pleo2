@@ -16,6 +16,11 @@
 <a name="Road_Maps"></a>
 
 ### 1. Road Maps
+| **Caracters** | **Description.**                         |
+| :-----------: | :-------------------------------------- |
+|      ✅       | subject domain                          |
+|      🔳       | no mastered                             |
+|      〽️       | in the process of mastering the subject |
 
 | **technologies to master** |    >----- progress -----> |
 | :------------------------- | :---------------------: |
@@ -35,13 +40,6 @@
 | `Angular.Js`               |           🔳            |
 | `Vite`                     |           🔳            |
 | ...                        |:white_square_button: :alien: :white_check_mark:|
-
-| **Caracters** | **Description.**                         |
-| :-----------: | :-------------------------------------- |
-|      ✅       | subject domain                          |
-|      🔳       | no mastered                             |
-|      〽️       | in the process of mastering the subject |
-
 ## CSS ##
 
 <details><summary><a name="CSS">Progress 〽️</a></summary>
