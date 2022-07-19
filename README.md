@@ -22,7 +22,7 @@
 |      🔳       | no mastered                             |
 |      〽️       | in the process of mastering the subject |
 
-| **technologies to master** |    >----- progress -----> |
+| **technologies to master** |  >----- progress -----> |
 | :------------------------- | :---------------------: |
 | `Bacic figma`              |           ✅            |
 | `HTML`                     |           ✅            |
@@ -32,13 +32,15 @@
 | `Markdown`                 |           ✅            |
 | `Boostrap (saas)`          |           🔳            |
 | `Tailwind`                 |           🔳            |
-| `JavaScript (vanilla)`     |           🔳            |
+| `Java`                     |           🔳            |
 | `JavaScript (vanilla)`     |           🔳            |
 | `TypeScript`               |           🔳            |
 | `Pyton`                    |           🔳            |
 | `React.Js`                 |           🔳            |
 | `Viu.Js`                   |           🔳            |
 | `Angular.Js`               |           🔳            |
+| `sprint`                   |           🔳            |
+| `web pack`                 |           🔳            |
 | `Vite`                     |           🔳            |
 | ...                        |:white_square_button: :alien: :white_check_mark:|
 ## CSS ##
