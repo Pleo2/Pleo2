@@ -33,6 +33,7 @@
 | `Boostrap (saas)`          |           🔳            |
 | `Tailwind`                 |           🔳            |
 | `JavaScript (vanilla)`     |           🔳            |
+| `JavaScript (vanilla)`     |           🔳            |
 | `TypeScript`               |           🔳            |
 | `Pyton`                    |           🔳            |
 | `React.Js`                 |           🔳            |
