@@ -30,7 +30,7 @@
 | `Git (Basico-Intermedio)`  |           ✅            |
 | `Git Hub`                  |           ✅            |
 | `Markdown`                 |           ✅            |
-| `Boostrap (saas)`          |           🔳            |
+| `Boostrap (saas)`          |           〽️            |
 | `Tailwind`                 |           🔳            |
 | `Java`                     |           🔳            |
 | `JavaScript (vanilla)`     |           🔳            |
