@@ -31,6 +31,7 @@
 | `Git Hub`                  |           ✅            |
 | `Markdown`                 |           ✅            |
 | `Boostrap (saas)`          |           〽️            |
+| `linux - terminal - comand line` |     ✅            |
 | `Tailwind`                 |           🔳            |
 | `Java`                     |           🔳            |
 | `JavaScript (vanilla)`     |           🔳            |
