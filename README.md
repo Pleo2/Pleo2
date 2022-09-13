@@ -26,15 +26,15 @@
 | :------------------------- | :---------------------: |
 | `Bacic figma`              |           ✅            |
 | `HTML`                     |           ✅            |
-| `CSS`                      |           〽️            |
+| `CSS`                      |           ✅            |
 | `Git (Basico-Intermedio)`  |           ✅            |
 | `Git Hub`                  |           ✅            |
 | `Markdown`                 |           ✅            |
-| `Boostrap (saas)`          |           〽️            |
+| `Boostrap (saas)`          |           ✅            |
 | `linux - terminal - comand line` |     ✅            |
 | `Tailwind`                 |           🔳            |
 | `Java`                     |           🔳            |
-| `JavaScript (vanilla)`     |           🔳            |
+| `JavaScript (vanilla)`     |           〽️            |
 | `TypeScript`               |           🔳            |
 | `Pyton`                    |           🔳            |
 | `React.Js`                 |           🔳            |
@@ -46,10 +46,10 @@
 | ...                        |:white_square_button: :alien: :white_check_mark:|
 ## CSS ##
 
-<details><summary><a name="CSS">Progress 〽️</a></summary>
+<details><summary><a name="CSS">✅</a></summary>
    <ul>
       <li><i>CCS Basic ✅</i></li>
-      <li>CCS responsive Desing <sub>Pendient 〽️</sub></li>
+      <li>CCS responsive Desing Mobile-first<sub> ✅sub></li>
       <li><i>CCS flex ✅</i></li>
       <li><i>CSS Avanced ✅</i></li>
       <li><i>CSS Grid ✅</i></li>
