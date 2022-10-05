@@ -1,0 +1,22 @@
+# Obtiene las completaciones del editor basadas en el esquema de configuración
+# "$schema" = 'https://starship.rs/config-schema.json'
+
+# Inserta una línea en blanco entre los prompts del intérprete de comandos
+add_newline = true
+
+# Reemplaza el símbolo "❯" en el prompt por "➜"
+[character] # El nombre del módulo que estamos configurando es "character"
+success_symbol = "[❯ ](bold green)" # El segmento "success_symbol" se está oonfigurando es "➜" con el color "bold green"
+
+# Deshabilita el módulo "package", ocultándolo del prompt completamente
+[package]
+disabled = true
+
+# ~/.config/starship.toml
+
+[nodejs]
+format = "[🤖 node $version](bold green)"
+symbol = "🤖"
+
+[git_branch]
+symbol = "🌱 "
