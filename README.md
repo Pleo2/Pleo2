@@ -32,15 +32,10 @@
 | `Markdown`                 |           ✅            |
 | `Boostrap (saas)`          |           ✅            |
 | `linux - terminal - comand line` |     ✅            |
-| `Tailwind`                 |           🔳            |
-| `Java`                     |           🔳            |
-| `JavaScript (vanilla)`     |           〽️            |
+| `Tailwind`                 |           ✅            |
+| `JavaScript (vanilla)`     |           ✅            |
 | `TypeScript`               |           🔳            |
-| `Pyton`                    |           🔳            |
 | `React.Js`                 |           🔳            |
-| `Viu.Js`                   |           🔳            |
-| `Angular.Js`               |           🔳            |
-| `sprint`                   |           🔳            |
 | `web pack`                 |           🔳            |
 | `Vite`                     |           🔳            |
 | ...                        |:white_square_button: :alien: :white_check_mark:|
