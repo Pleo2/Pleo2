@@ -23,10 +23,9 @@
 | `linux - terminal - comand line` |     ✅            |
 | `Tailwind`                 |           ✅            |
 | `JavaScript (vanilla)`     |           ✅            |
-| `TypeScript`               |           🔳            |
+| `TypeScript`               |           ✅            |
+| `Vite`                     |           ✅            |
 | `React.Js`                 |           🔳            |
-| `web pack`                 |           🔳            |
-| `Vite`                     |           🔳            |
 | ...                        |:white_square_button: :alien: :white_check_mark:|
 
 ###### 📫 How to reach me ... leooel23m@gmail.com
