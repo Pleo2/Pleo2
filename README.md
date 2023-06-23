@@ -22,5 +22,5 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </div>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pleo2&theme=blue-green">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pleo2&theme=dark">
 </div>
