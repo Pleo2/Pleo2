@@ -30,3 +30,4 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pleo2&theme=transparent" height='780' >
 </div>
+<a target="_blank" href="https://docs.google.com/document/d/1YfjpOvchE67jPwIAr3k5_xzVPuO-g2sK836XohHsdx4/edit?usp=sharing">My Cv</a>
