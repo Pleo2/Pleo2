@@ -1,4 +1,5 @@
 <h1>Hi there🖖</h1>
+<a target="_blank" href="https://docs.google.com/document/d/e/2PACX-1vRXz-Y7f3F9kevNmD1aFE6F01hEEBfPsesitYuHCmuUBS9IIC00--eYA0IUvNKuPIF6_Di76tK3vK6n/pub">My Curriculum Vintage🌠</a>
 <h3>Programming Languages</h3>
 <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -30,4 +31,3 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pleo2&theme=transparent" height='780' >
 </div>
-<a target="_blank" href="https://docs.google.com/document/d/1YfjpOvchE67jPwIAr3k5_xzVPuO-g2sK836XohHsdx4/edit?usp=sharing">My Cv</a>
