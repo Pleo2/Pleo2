@@ -1,5 +1,6 @@
 <h1>Hi there🖖</h1>
-[![wakatime](https://wakatime.com/badge/user/dc33b9be-4484-429a-9ab9-f51a80346371.svg)](https://wakatime.com/@dc33b9be-4484-429a-9ab9-f51a80346371)
+[![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
+
 <div></div>
 <a target="_blank" href="https://docs.google.com/document/d/e/2PACX-1vRXz-Y7f3F9kevNmD1aFE6F01hEEBfPsesitYuHCmuUBS9IIC00--eYA0IUvNKuPIF6_Di76tK3vK6n/pub">My Curriculum Vintage🌠</a>
 <h3>Programming Languages</h3>
