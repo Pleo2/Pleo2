@@ -1,4 +1,5 @@
 <h1>Hi there🖖</h1>
+[![wakatime](https://wakatime.com/badge/user/dc33b9be-4484-429a-9ab9-f51a80346371.svg)](https://wakatime.com/@dc33b9be-4484-429a-9ab9-f51a80346371)
 <a target="_blank" href="https://docs.google.com/document/d/e/2PACX-1vRXz-Y7f3F9kevNmD1aFE6F01hEEBfPsesitYuHCmuUBS9IIC00--eYA0IUvNKuPIF6_Di76tK3vK6n/pub">My Curriculum Vintage🌠</a>
 <h3>Programming Languages</h3>
 <div>
