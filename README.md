@@ -41,5 +41,4 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   </div>
-    <figure><embed src="https://wakatime.com/share/@dc33b9be-4484-429a-9ab9-f51a80346371/6ac3cc9b-c99c-4678-95e2-3b5d29de4a1d.svg"></embed></figure>
 </div>
