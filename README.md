@@ -1,3 +1,7 @@
+<a href="https://www.pleo2.com/">
+  <img src="./assets/pleo2-signal.gif" alt="Pleo2 — Full-Stack Engineer, Co-Founder and CTO" width="100%">
+</a>
+
 # José Moreno
 
 **Full-Stack Engineer · Co-Founder & CTO**
